@@ -1,0 +1,14 @@
+C:\Users\Wilton\Desktop\aprendendoC#\desafioDIO\bin\Debug\net7.0\desafioDIO.exe
+C:\Users\Wilton\Desktop\aprendendoC#\desafioDIO\bin\Debug\net7.0\desafioDIO.deps.json
+C:\Users\Wilton\Desktop\aprendendoC#\desafioDIO\bin\Debug\net7.0\desafioDIO.runtimeconfig.json
+C:\Users\Wilton\Desktop\aprendendoC#\desafioDIO\bin\Debug\net7.0\desafioDIO.dll
+C:\Users\Wilton\Desktop\aprendendoC#\desafioDIO\bin\Debug\net7.0\desafioDIO.pdb
+C:\Users\Wilton\Desktop\aprendendoC#\desafioDIO\obj\Debug\net7.0\desafioDIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wilton\Desktop\aprendendoC#\desafioDIO\obj\Debug\net7.0\desafioDIO.AssemblyInfoInputs.cache
+C:\Users\Wilton\Desktop\aprendendoC#\desafioDIO\obj\Debug\net7.0\desafioDIO.AssemblyInfo.cs
+C:\Users\Wilton\Desktop\aprendendoC#\desafioDIO\obj\Debug\net7.0\desafioDIO.csproj.CoreCompileInputs.cache
+C:\Users\Wilton\Desktop\aprendendoC#\desafioDIO\obj\Debug\net7.0\desafioDIO.dll
+C:\Users\Wilton\Desktop\aprendendoC#\desafioDIO\obj\Debug\net7.0\refint\desafioDIO.dll
+C:\Users\Wilton\Desktop\aprendendoC#\desafioDIO\obj\Debug\net7.0\desafioDIO.pdb
+C:\Users\Wilton\Desktop\aprendendoC#\desafioDIO\obj\Debug\net7.0\desafioDIO.genruntimeconfig.cache
+C:\Users\Wilton\Desktop\aprendendoC#\desafioDIO\obj\Debug\net7.0\ref\desafioDIO.dll
